@@ -13,7 +13,7 @@ Este é o Colab de demonstração pública do modelo **λambdAI**, desenvolvido 
 
 Testar diretamente no navegador via Google Colab:
 
-[**▶️ Abrir λambdAI no Colab**](https://colab.research.google.com/drive/1h9w00bWzFGFXgrklxu7c_0wPLpne04YZ?usp=sharing)
+[**▶️ Abrir λambdAI no Colab**](https://colab.research.google.com/drive/1o4IIGYIV5OY0by8qEKrNvsxwq4NYuNZL?usp=sharing)
 
 ---
 
